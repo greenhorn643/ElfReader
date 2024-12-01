@@ -3,7 +3,11 @@ uuid = "74f97786-7103-49d3-a5df-2f25198730b3"
 authors = ["greenhorn643 <alex.palmer643@gmail.com> and contributors"]
 version = "1.0.0-DEV"
 
+[deps]
+Transducers = "28d57a85-8fef-5791-bfe6-a80928e7c999"
+
 [compat]
+Transducers = "0.4.84"
 julia = "1.6.7"
 
 [extras]
